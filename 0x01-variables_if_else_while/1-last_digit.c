@@ -5,7 +5,7 @@
 
 /* betty style doc for function main goes there */
 /*
- * main entry point
+ * main - entry point
  */
 int main(void)
 {
