@@ -19,7 +19,7 @@ int main(void)
 	if (last_digit > 5){
 	printf("\tand is greater than 5\n");}
 
-	else if (last_digit = 0){
+	else if (last_digit < 1 && last_digit > -1){
 		printf("\tand is 0\n");}
 	else if (last_digit <6 && last_digit !=0){
 		printf("\tand is less than 6 and not 0\n");}
